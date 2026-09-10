@@ -20,3 +20,5 @@ public/公众号二维码.png
 .DS_Store
 Thumbs.db
 desktop.ini
+config.bat
+node_modules
